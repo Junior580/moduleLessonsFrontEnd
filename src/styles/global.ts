@@ -17,11 +17,4 @@ export default createGlobalStyle`
   button {
     font: 16px Rototo, sans-serif;
   }
-
-  #root {
-    max-width: 1080px;
-    margin: 0 auto;
-    padding: 40px 20px;
-  }
-
 `
